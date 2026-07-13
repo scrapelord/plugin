@@ -1,4 +1,4 @@
-# SkTorrent & Hellspy - Nuvio Plugin 🚀
+# SkTorrent & Hellspy - Nuvio CZ/SK Plugin 🚀
 
 Tento plugin pro multimediální centrum **Nuvio** integruje dva populární české/slovenské zdroje video obsahu: **SkTorrent.eu** a **Hellspy.to**. Plugin je navržen s důrazem na nulovou konfiguraci (zero-config) a maximální kvalitu streamování.
 
