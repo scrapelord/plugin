@@ -4,7 +4,7 @@
   "scrapers": [
     {
       "id": "anikototv",
-      "name": "AnikotoTV",
+      "name": "🪷 AnikotoTV",
       "description": "Anime provider for AnikotoTV.to via Mapper API + Native Extractor",
       "version": "1.0.5",
       "author": "piratezoro9",
@@ -27,7 +27,7 @@
     },
     {
       "id": "hianime",
-      "name": "HiAnime",
+      "name": "💮 HiAnime",
       "description": "HiAnime multi-server anime streaming with real-time mapping and subtitles",
       "version": "1.0.0",
       "author": "Nuvio Team",
