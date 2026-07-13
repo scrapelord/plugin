@@ -25,7 +25,7 @@ Tento plugin pro multimediální centrum **Nuvio** integruje dva populární če
 2. Zkopírujte odkaz na soubor `manifest.json` ze složky `plugin` (použijte tlačítko **Raw** na GitHubu).
    * Odkaz bude vypadat přibližně takto:
    ```
-   https://raw.githubusercontent.com/scrapelord/plugin/refs/heads/main/manifest.json)
+   https://raw.githubusercontent.com/scrapelord/plugin/refs/heads/main/manifest.json
    ```
 3. Otevřete **Nuvio** (na televizi nebo mobilu).
 4. Přejděte do **Nastavení** -> **Doplňky / Pluginy** -> **Přidat nový plugin**.
