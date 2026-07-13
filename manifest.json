@@ -5,7 +5,7 @@
     {
       "id": "hellspy",
       "name": "😈 HellSpy",
-      "description": "",
+      "description": "Bezplatné přímé přehrávání a stahování videí z hellspy.to. Nevyžaduje debrid ani placený účet.",
       "version": "1.0.0",
       "author": "Scrapelord",
       "supportedTypes": ["movie", "tv"],
@@ -19,7 +19,7 @@
     {
       "id": "sktorrent",
       "name": "👑 SkTorrent",
-      "description": "",
+      "description": "CZ/SK torrenty z sktorrent.eu - filmy a serialy. Plně kompatibilní s nativním debrid/TorBox resolvem v Nuviu.",
       "version": "1.0.0",
       "author": "Scrapelord",
       "supportedTypes": ["movie", "tv"],
@@ -33,7 +33,7 @@
     {
       "id": "sktonline",
       "name": "©️ SkTonline",
-      "description": "",
+      "description": "Bezplatné přímé online přehrávání videí z online.sktorrent.eu. Nevyžaduje debrid ani stahování.",
       "version": "1.0.0",
       "author": "Scrapelord",
       "supportedTypes": ["movie", "tv"],
@@ -47,7 +47,7 @@
     {
       "id": "torrentio",
       "name": "🧲 Torrentio",
-      "description": "",
+      "description": "Poskytuje torrentové streamy z vybraných torrentových poskytovatelů.",
       "version": "1.0.0",
       "author": "Phisher",
       "supportedTypes": ["movie", "tv"],
