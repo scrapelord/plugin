@@ -43,20 +43,6 @@
       "formats": ["mp4", "mkv", "avi", "m3u8"],
       "logo": "",
       "contentLanguage": ["cs", "sk"]
-    },
-    {
-      "id": "torrentio",
-      "name": "🧲 Torrentio",
-      "description": "Poskytuje torrentové streamy z vybraných torrentových poskytovatelů.",
-      "version": "1.0.0",
-      "author": "Phisher",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/torrentio.js",
-      "enabled": true,
-      "hasSettings": true,
-      "formats": ["mp4", "mkv", "avi", "m3u8"],
-      "logo": "",
-      "contentLanguage": ["en", "cs", "sk"]
     }
   ]
 }
