@@ -1,13 +1,28 @@
 {
-  "name": "SkTorrent & Hellspy",
+  "name": "SkTorrent & Hellspy + Torrentio",
   "version": "1.3.0",
   "scrapers": [
+    {
+      "id": "hellspy",
+      "name": "Hellspy",
+      "description": "Bezplatné přímé přehrávání a stahování videí z hellspy.to. Nevyžaduje debrid ani placený účet.",
+      "version": "1.0.0",
+      "author": "SkTorrent Plugin",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/hellspy.js",
+      "enabled": true,
+      "formats": ["mp4", "mkv", "avi"],
+      "logo": "https://www.google.com/s2/favicons?domain=hellspy.to&sz=128",
+      "contentLanguage": ["cs", "sk"],
+      "supportsExternalPlayer": true,
+      "hasSettings": false
+    },
     {
       "id": "sktorrent",
       "name": "SkTorrent",
       "description": "CZ/SK torrenty z sktorrent.eu - filmy a serialy. Plně kompatibilní s nativním debrid/TorBox resolvem v Nuviu.",
       "version": "1.1.0",
-      "author": "",
+      "author": "SkTorrent Plugin",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/sktorrent.js",
       "enabled": true,
@@ -21,22 +36,6 @@
         "realdebrid": true,
         "allDebrid": true,
         "torbox": true
-      }
-    },
-    {
-      "id": "hellspy",
-      "name": "Hellspy",
-      "description": "Bezplatné přímé přehrávání a stahování videí z hellspy.to. Nevyžaduje debrid ani placený účet.",
-      "version": "1.0.0",
-      "author": "",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/hellspy.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "avi"],
-      "logo": "https://www.google.com/s2/favicons?domain=hellspy.to&sz=128",
-      "contentLanguage": ["cs", "sk"],
-      "supportsExternalPlayer": true,
-      "hasSettings": false
     },
     {
       "id": "sktonline",
@@ -52,6 +51,20 @@
       "contentLanguage": ["cs", "sk"],
       "supportsExternalPlayer": true,
       "hasSettings": false
+    },
+    {
+      "id": "torrentio",
+      "name": "🧲 Torrentio",
+      "description": "Movies and shows streaming",
+      "version": "1.0.0",
+      "author": "Phisher",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/torrentio.js",
+      "enabled": true,
+      "hasSettings": true,
+      "formats": ["mp4", "m3u8", "mkv"],
+      "logo": "https://i.postimg.cc/ZRYTCy0T/torrentio.png",
+      "contentLanguage": ["en", "cs"]
     }
   ]
 }
