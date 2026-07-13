@@ -45,6 +45,20 @@
       "contentLanguage": ["cs", "sk"]
     },
     {
+      "id": "peachify",
+      "name": "🍑 Peachify",
+      "description": "Streamování z peachify.top — 3 zdroje ze serverů (MovieBox/Holly/Air) přes Cloudflare Workers s dešifrováním pomocí AES-256-GCM.",
+      "version": "1.0.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/peachify.js",
+      "enabled": true,
+      "hasSettings": true,
+      "formats": ["mp4", "mkv", "avi", "m3u8"],
+      "logo": "",
+      "contentLanguage": ["en", "cs", "sk"]
+    },
+    {
       "id": "torrentio",
       "name": "🧲 Torrentio",
       "description": "Poskytuje torrentové streamy z vybraných torrentových poskytovatelů.",
